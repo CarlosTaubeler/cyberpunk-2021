@@ -1,0 +1,56 @@
+{
+  "name": "cyberpunk-2021",
+  "publisher": "TechWithCarlos",
+  "displayName": "Cyberpunk 2021",
+  "description": "🔥 A Dark Theme specially created for JavaScript, React and Python with the best possible color support!",
+  "version": "1.0.0",
+  "Author": {
+  "name": "Carlos"
+  },
+  "engines": {
+      "vscode": "^1.53.0"
+  },
+  "galleryBanner":{
+    "color": "#781DDC",
+    "theme": "dark"
+  },
+  "icon": "images/icon/logo-512x512.png",
+  "categories": [
+      "Themes"
+  ],
+  "keywords":[
+    "Tech With Carlos Theme",
+    "Theme",
+    "Dark Theme",
+    "Blue",
+    "Dark",
+    "Gray",
+    "Lila",
+    "Blue",
+    "Dark Blue",
+    "Green",
+    "Cyberpunk",
+    "Matrix",
+    "Space",
+    "React",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "CSS",
+    "HTML",
+    "Color Theme"
+],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TechWithCarlos/cyberpunk-2021.git"
+  },
+  "contributes": {
+      "themes": [
+          {
+              "label": "Cyberpunk 2021",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Cyberpunk 2021-color-theme.json"
+          }
+      ]
+  }
+}
