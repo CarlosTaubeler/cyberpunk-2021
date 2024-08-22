@@ -2,54 +2,60 @@
   "name": "cyberpunk-2021",
   "publisher": "TechWithCarlos",
   "displayName": "Cyberpunk 2021",
-  "description": "🔥 A Dark Theme specially created for JavaScript, React and Python with the best possible color support!",
-  "version": "1.0.0",
+  "description": "A vibrant and dynamic Cyberpunk theme, optimized for deep focus and an immersive coding experience, with enhancements for JavaScript, TypeScript, Python, Go, and Rust.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarlosTaubeler/cyberpunk-2021"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/CarlosTaubeler"
+  },
+  "version": "1.8.3",
   "Author": {
   "name": "Carlos"
   },
   "engines": {
-      "vscode": "^1.53.0"
+      "vscode": "^1.92.2"
   },
   "galleryBanner":{
-    "color": "#781DDC",
+    "color": "#131029",
     "theme": "dark"
   },
-  "icon": "images/icon/logo-512x512.png",
+  "icon": "images/icon/cyberpunk-thumbnail-logo-512.png",
   "categories": [
       "Themes"
   ],
-  "keywords":[
-    "Tech With Carlos Theme",
-    "Theme",
-    "Dark Theme",
-    "Blue",
-    "Dark",
-    "Gray",
-    "Lila",
-    "Blue",
-    "Dark Blue",
-    "Green",
+  "keywords": [
     "Cyberpunk",
-    "Matrix",
-    "Space",
-    "React",
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "CSS",
-    "HTML",
-    "Color Theme"
+    "Cyberpunk 2021",
+    "Color Theme",
+    "Dark Theme",
+    "Theme",
+    "Themes",
+    "Accessible Theme"
 ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/TechWithCarlos/cyberpunk-2021.git"
-  },
   "contributes": {
       "themes": [
           {
               "label": "Cyberpunk 2021",
               "uiTheme": "vs-dark",
-              "path": "./themes/Cyberpunk 2021-color-theme.json"
+              "path": "./themes/Cyberpunk 2021 color-theme.json"
+          },
+          {
+              "label": "Cyberpunk 2021 (No italics)",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Cyberpunk 2021 No italics color-theme.json"
+          },
+          {
+              "label": "Cyberpunk 2021 Deep Focus",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Cyberpunk 2021 Deep Focus color-theme.json"
+          },
+          {
+              "label": "Cyberpunk 2021 Deep Focus (No italics)",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Cyberpunk 2021 Deep Focus No italics color-theme.json"
           }
       ]
   }
