@@ -7,8 +7,8 @@
     "type": "git",
     "url": "https://github.com/CarlosTaubeler/cyberpunk-2021"
   },
-  "funding": {
-    "type": "github",
+  "funding": "https://github.com/sponsors/CarlosTaubeler",
+  "sponsor": {
     "url": "https://github.com/sponsors/CarlosTaubeler"
   },
   "version": "1.8.3",
