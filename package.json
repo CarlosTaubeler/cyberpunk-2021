@@ -3,16 +3,12 @@
   "publisher": "TechWithCarlos",
   "displayName": "Cyberpunk 2021",
   "description": "A vibrant and dynamic Cyberpunk theme, optimized for deep focus and an immersive coding experience, with enhancements for JavaScript, TypeScript, Python, Go, and Rust.",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/CarlosTaubeler/cyberpunk-2021"
-  },
-  "funding": "https://github.com/sponsors/CarlosTaubeler",
+  "repository":"https://github.com/CarlosTaubeler/cyberpunk-2021",
   "sponsor": {
-    "url": "https://github.com/sponsors/CarlosTaubeler"
+  "url": "https://github.com/sponsors/CarlosTaubeler"
   },
-  "version": "1.8.3",
-  "Author": {
+  "version": "1.8.4",
+  "author": {
   "name": "Carlos"
   },
   "engines": {
