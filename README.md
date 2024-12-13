@@ -216,11 +216,18 @@ Vielen Dank für deine Unterstützung!
 
 #### License / Lizenz
 **English:**
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Additional Restrictions:
+- You are not permitted to modify, publish, or distribute this project on any marketplace (including but not limited to the Visual Studio Code Marketplace or any other similar platforms) without prior explicit permission.
+- Commercial use of this project is not allowed without prior consent.
 
 **Deutsch:**
 
 Dieses Projekt steht unter der MIT-Lizenz - siehe die [LICENSE](LICENSE) Datei für Details.
+### Zusätzliche Einschränkungen:
+- Es ist nicht gestattet, dieses Projekt zu modifizieren, zu veröffentlichen oder auf irgendeinem Marktplatz (einschließlich, aber nicht beschränkt auf den Visual Studio Code Marketplace oder andere ähnliche Plattformen) ohne vorherige ausdrückliche Erlaubnis zu verbreiten.
+- Eine kommerzielle Nutzung dieses Projekts ist ohne vorherige Zustimmung nicht gestattet.
 
 <hr style="height: 1px; background-color: #21FE9F; border: none;" />
 
