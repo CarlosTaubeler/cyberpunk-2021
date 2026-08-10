@@ -1,58 +1,43 @@
 {
-  "name": "cyberpunk-2021",
-  "publisher": "TechWithCarlos",
-  "displayName": "Cyberpunk 2021",
-  "description": "A vibrant and dynamic Cyberpunk theme, optimized for deep focus and an immersive coding experience, with enhancements for JavaScript, TypeScript, Python, Go, and Rust.",
-  "repository":"https://github.com/CarlosTaubeler/cyberpunk-2021",
-  "sponsor": {
-  "url": "https://github.com/sponsors/CarlosTaubeler"
-  },
-  "version": "1.8.4",
-  "author": {
-  "name": "Carlos"
-  },
-  "engines": {
-      "vscode": "^1.92.2"
-  },
-  "galleryBanner":{
-    "color": "#131029",
-    "theme": "dark"
-  },
-  "icon": "images/icon/cyberpunk-thumbnail-logo-512.png",
-  "categories": [
-      "Themes"
-  ],
-  "keywords": [
-    "Cyberpunk",
-    "Cyberpunk 2021",
-    "Color Theme",
-    "Dark Theme",
-    "Theme",
-    "Themes",
-    "Accessible Theme"
-],
-  "contributes": {
-      "themes": [
-          {
-              "label": "Cyberpunk 2021",
-              "uiTheme": "vs-dark",
-              "path": "./themes/Cyberpunk 2021 color-theme.json"
-          },
-          {
-              "label": "Cyberpunk 2021 (No italics)",
-              "uiTheme": "vs-dark",
-              "path": "./themes/Cyberpunk 2021 No italics color-theme.json"
-          },
-          {
-              "label": "Cyberpunk 2021 Deep Focus",
-              "uiTheme": "vs-dark",
-              "path": "./themes/Cyberpunk 2021 Deep Focus color-theme.json"
-          },
-          {
-              "label": "Cyberpunk 2021 Deep Focus (No italics)",
-              "uiTheme": "vs-dark",
-              "path": "./themes/Cyberpunk 2021 Deep Focus No italics color-theme.json"
-          }
-      ]
-  }
+    "name": "cyberpunk-2021",
+    "publisher": "TechWithCarlos",
+    "displayName": "Cyberpunk 2021",
+    "description": "A vibrant and immersive VS Code theme designed for modern software development, AI-assisted coding, and agent-powered development workflows.",
+    "repository": "https://github.com/CarlosTaubeler/cyberpunk-2021",
+    "sponsor": {
+        "url": "https://github.com/sponsors/CarlosTaubeler"
+    },
+    "version": "2.0.0",
+    "author": {
+        "name": "Carlos"
+    },
+    "engines": {
+        "vscode": "^1.92.2"
+    },
+    "galleryBanner": {
+        "color": "#1A1640",
+        "theme": "dark"
+    },
+    "icon": "images/icon/cyberpunk-thumbnail-logo-512.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Cyberpunk",
+        "Cyberpunk 2021",
+        "Color Theme",
+        "Dark Theme",
+        "Theme",
+        "Themes",
+        "Accessible Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cyberpunk 2021",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cyberpunk 2021 color-theme.json"
+            }
+        ]
+    }
 }
