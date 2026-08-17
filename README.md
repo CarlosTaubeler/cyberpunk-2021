@@ -15,6 +15,7 @@
 <img src="images/cyberpunk2021-typescript-welcome-page.png" alt="Cyberpunk 2021 Welcome Page" />
 <img src="images/cyberpunk2021-typescript-syntax.png" alt="TypeScript Syntax Highlighting" />
 <img src="images/cyberpunk2021-reactjsx-syntax.png" alt="React JSX Syntax Highlighting" />
+<img src="images/unified-syntax-highlighting.png" alt="Unified Syntax Highlighting" />
 <img src="images/cyberpunk2021-typescript-agents.png" alt="AI Agents in VS Code" />
 <img src="images/cyberpunk2021-typescript-copilot-prompt.png" alt="GitHub Copilot Prompt" />
 <img src="images/cyberpunk2021-typescript-copilot-review.png" alt="GitHub Copilot Code Review" />
